@@ -3,7 +3,9 @@
 % few starting notes.
 
 % Writing counterpoint is a sort of puzzle, and is a great
-% candidate for declarative programming.
+% candidate for declarative programming. This function produced
+% several pieces given only the cantus firmus, which were
+% performed automatically using a CSound script.
 
 :- use_module(library(clpfd)).
 :- use_module(library(lists)).
