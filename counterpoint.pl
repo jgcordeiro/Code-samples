@@ -1,5 +1,7 @@
 % This is a Prolog function that receives a melody and attempts
-% to write a first-species counterpoint that complements it.
+% to write a song in two voices, with a "cantus firmus" and a
+% "counterpoint."
+
 % Writing counterpoint is a sort of puzzle, and is a great
 % candidate for declarative programming.
 
