@@ -1,6 +1,6 @@
-% This is a Prolog function that receives a melody and attempts
-% to write a song in two voices, with a "cantus firmus" and a
-% "counterpoint."
+% This is a Prolog function that attempts to write a melody with
+% two voices, a "cantus firmus" and a "counterpoint," given a
+% few starting notes.
 
 % Writing counterpoint is a sort of puzzle, and is a great
 % candidate for declarative programming.
